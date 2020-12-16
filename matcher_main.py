@@ -53,7 +53,7 @@ def exists_in_DB(fp):
 # Main function
 def mainFunc():
 	print("")
-	print("musicMatch v0.1")
+	print("simpleMusicMatcher v0.1")
 	
 	# Do scan
 	print("")
