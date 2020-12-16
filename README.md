@@ -19,5 +19,5 @@ Download this source and extract somewhere.
 Then: pip install pyacoustid
 
 ## Usage:
-python matcher_main.py <path to your music library>
+`python matcher_main.py <path to your music library>`
 
