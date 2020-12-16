@@ -1,6 +1,6 @@
 # simpleMusicMatcher
 
-This is a simple music matcher leveraging AcoustID's Chromaprint.
+This is a simple music matcher leveraging AcoustID's Chromaprint. Scans recursively through a given path and then looks for duplicate files.
 
 ## Features:
 - Stores fingerprints in a SQLite DB
